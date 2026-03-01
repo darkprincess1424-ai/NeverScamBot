@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import logging
 import sqlite3
 import datetime
